@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    height: 7rem;
+    width: 15rem;
+    border-radius: 2rem;
+  }
+  img {
+    object-fit: contain; 
+  }

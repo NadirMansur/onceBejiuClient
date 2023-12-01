@@ -1,0 +1,31 @@
+.newsLetter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid rgb(255, 255, 255);
+}
+
+.newsletter-follow {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
+.input {
+  border-radius: 00px 0px 0px 00px;
+  height: 2.6rem;
+  width: 25rem;
+}
+
+.search-btn {
+  font-display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3rem;
+  width: 10rem;
+  border: 2px solid rgb(255, 255, 255);
+  color: aliceblue;
+  font-weight: 700;
+  border-radius: 0px 40px 40px 0px;
+}
+

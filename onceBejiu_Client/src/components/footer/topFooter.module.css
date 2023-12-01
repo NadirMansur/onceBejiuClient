@@ -1,0 +1,17 @@
+.section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid rgb(255, 255, 255);
+}
+
+.list {
+  list-style: none;
+}
+
+.aboutUs{
+    display: flex;
+    width: 20rem;
+}

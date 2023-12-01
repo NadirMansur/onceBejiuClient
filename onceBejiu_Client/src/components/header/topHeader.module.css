@@ -1,0 +1,26 @@
+.top-header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.header-links li a {
+  color: aliceblue;
+}
+.header-links li a:hover {
+  color: #d10024;
+}
+.ulLeft {
+  display: flex;
+  justify-content: space-between;
+  width: 20rem;
+  margin-left: 5rem;
+  list-style: none;
+}
+.pull-right {
+  list-style: none;
+  margin-right: 5rem;
+}
